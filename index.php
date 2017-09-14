@@ -1,5 +1,6 @@
 <?php 
-var_dump(__NAMESPACE__); 	
+
+ 	
 function myClasses ($className)
 {
     $filePath = './classes/' .$className. '.php';
